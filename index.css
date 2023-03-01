@@ -6,35 +6,6 @@
     --calculator-border-radius: 10px;
 }
 
-.macos-top-bar {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    left: 6px;
-    top: 6px;
-}
-
-
-.macos-button {
-    border-radius: 50%;
-    width: 10px;
-    height: 10px;
-    background-color: #E0E0E0;
-    margin-right: 5px;
-}
-
-.close-button {
-    background-color: #FF5F57;
-}
-
-.minimize-button {
-    background-color: #FEBC2F;
-}
-
-.fullscreen-button {
-    background-color: #29C840;
-}
-
 body {
     box-sizing: border-box;
     font-family: Helvetica,Arial, sans-serif;
